@@ -11,10 +11,12 @@ El WriteUp cubre:
 ## Herramientas Utilizadas
 
 - **Nmap**: Para el escaneo y enumeración de puertos.
-- **Metasploit**: Para algunas fases de explotación.
 - **Netcat**: Para conexiones interactivas.
-- Otras herramientas específicas de cada laboratorio, descritas en cada WriteUp.
-
+- **DIG**: Para enumeración de servidores DNS.
+- **smtp-user-enum**: Para enumeración de usuarios del servicio SMTP.
+- **Hydra**: Para ataques de fuerza bruta.
+- **mssqlclient.py**: Para conectarnos a un servidor MSSQL desde nuestra máquina Linux.
+  
 ## Contribuciones
 
 Este repositorio es el resultado del curso de HTB y está orientado a quienes deseen mejorar sus habilidades de seguridad ofensiva en servicios comunes. Si tienes sugerencias o mejoras para el contenido, ¡las contribuciones son bienvenidas!
